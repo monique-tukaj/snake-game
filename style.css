@@ -1,0 +1,26 @@
+body{
+    height: 95vh;
+    width: 95vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E9EAEC;
+    color: #333652;
+
+    margin: auto;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.social-media a{
+    color: #F652A0;
+    text-decoration: none;
+}
+
+.social-media{
+    text-align: center;
+}
+
+.signature {
+    margin-bottom: -25px;
+}
